@@ -1,0 +1,28 @@
+
+body{
+  background-color: black;
+}
+
+#wrapperDiv{
+  width: 500px;
+  height: 700px;
+  border: solid black 3px;
+  background-color: green;
+  margin: auto;
+}
+
+#headDiv{
+  width: 420px;
+  height: 400;
+  border: solid black 3px;
+  background-color: white;
+  margin: auto;
+}
+
+#footDiv{
+  width: 420px;
+  height: 200;
+  border: solid black 3px;
+  background-color: white;
+  margin: auto;
+}
