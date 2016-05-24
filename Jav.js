@@ -8,3 +8,24 @@ var newBeg =  function(){
 }
 
 window.alert("Oh no you are pathetic haha")
+
+
+var insertNums = function(){
+
+}
+
+var Mean = function(){
+
+}
+
+var Median = function(){
+
+}
+
+var Mode = function(){
+
+}
+
+var Average = function(){
+
+}
