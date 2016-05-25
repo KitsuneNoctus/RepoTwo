@@ -24,5 +24,8 @@ var findAverage = function(){
 }
 
 var Input = function(){
-  alert("Input numbers")
+  var numbers = prompt("Input some numbers", "Numbers")
+  if(numbers != null){
+    
+  }
 }
