@@ -7,25 +7,22 @@ var newBeg =  function(){
   return sum/den.length;
 }
 
-window.alert("Oh no you are pathetic haha")
-
-
-var insertNums = function(){
-
+var findMean = function(){
+  alert("This is the Mean")
 }
 
-var Mean = function(){
-
+var findMedian = function(){
+  alert("This is the Median")
 }
 
-var Median = function(){
-
+var findMode = function(){
+  alert("This is the Mode")
 }
 
-var Mode = function(){
-
+var findAverage = function(){
+  alert("This is the Avergae")
 }
 
-var Average = function(){
-
+var Input = function(){
+  alert("Input numbers")
 }
