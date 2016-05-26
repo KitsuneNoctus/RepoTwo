@@ -19,13 +19,15 @@ var findMode = function(){
   alert("This is the Mode")
 }
 
-var findAverage = function(){
-  alert("This is the Avergae")
+var Input = function(){
+  var numbers = prompt("Input some numbers seperated by commas", "Numbers")
+  if(numbers != null){
+    for(var i =0, i< x; i++)
+  }
 }
 
-var Input = function(){
-  var numbers = prompt("Input some numbers", "Numbers")
-  if(numbers != null){
-    
-  }
+var nums = [];
+
+var sort = function(){
+  
 }
